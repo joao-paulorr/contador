@@ -1,3 +1,3 @@
-function somar() {
-    const 
+function contador() {
+    
 }
