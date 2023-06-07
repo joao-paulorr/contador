@@ -1,9 +1,9 @@
 var numero = 0
 
 function soma() {
-    let numero = document.getElementById("num")
+    let num = document.getElementById("numero")
     var soma = numero++
-    numero.innerText = soma
+    num.innerText = soma
 }
 
 function sub() {
@@ -12,9 +12,4 @@ function sub() {
 
 function resetar() {
 
-}
-
-function incrementarContador() {
-    contador++;
-    document.getElementById("contador").innerText = contador;
 }
