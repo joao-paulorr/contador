@@ -1,5 +1,8 @@
+var numero = 0
+
 function soma() {
-    let num = document.getElementById("num");
+    let numero = document.getElementById("num")
+
 }
 
 function sub() {
